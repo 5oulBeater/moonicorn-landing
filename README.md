@@ -15,7 +15,7 @@ Sebuah *landing page* untuk proyek **Moonicorn**, dibangun sebagai portofolio we
 - HTML  
 - CSS  
 - JavaScript (vanilla)  
-- Bootstrap / CSS custom (sesuaikan dengan kode kamu)
+- Bootstrap / CSS custom 
 
 ##  Cara Menjalankan (Local)
 
